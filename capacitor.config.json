@@ -1,0 +1,21 @@
+{
+  "appId": "com.kundanjal.ordermanager",
+  "appName": "Kundan Jal",
+  "webDir": "www",
+  "backgroundColor": "#07211F",
+  "android": {
+    "adjustMarginsForEdgeToEdge": "force"
+  },
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 800,
+      "backgroundColor": "#07211F",
+      "showSpinner": false
+    },
+    "StatusBar": {
+      "style": "DARK",
+      "backgroundColor": "#07211F",
+      "overlaysWebView": false
+    }
+  }
+}
